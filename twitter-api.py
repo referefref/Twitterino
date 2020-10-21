@@ -1,6 +1,6 @@
 
 
-# Prints out most recent Tweets posted by the user to the serail port 
+# Prints out most recent Tweets posted by the user to the serial port 
 
 import httplib
 import json
